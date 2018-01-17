@@ -2,6 +2,8 @@
 Problem:
 Link to problem:
 (https://www.hackerearth.com/codearena/ring/9a2b9d3/)
+The problem states that if a quadratic equation has complex/imaginary roots then that problem is not solved by a kid named Bosby or something.
+so given the values of a,b,c for a test case, find how many equations can be solved by the kid.
 """
 
 import cmath
