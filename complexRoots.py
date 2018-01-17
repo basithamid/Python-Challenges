@@ -1,7 +1,7 @@
 """
 Problem:
 Link to problem:
-[complexRoots](https://www.hackerearth.com/codearena/ring/9a2b9d3/)
+(https://www.hackerearth.com/codearena/ring/9a2b9d3/)
 """
 
 import cmath
